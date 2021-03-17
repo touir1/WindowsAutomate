@@ -133,3 +133,5 @@ dmypy.json
 
 # Custom
 script.wsa
+draft/
+temp/

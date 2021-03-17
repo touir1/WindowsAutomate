@@ -1,1 +1,4 @@
-PyAutoGUI==0.9.52
+PyAutoGUI~=0.9.52
+Pillow~=8.1.2
+opencv-python~=4.5.1.48
+numpy~=1.20.1

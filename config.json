@@ -1,0 +1,5 @@
+{
+  "temp_folder": "./temp",
+  "actions_pause_interval": 0.5,
+  "image_recon_threshold": 0.8
+}
