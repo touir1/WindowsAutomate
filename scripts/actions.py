@@ -48,7 +48,7 @@ def move_and_click(x, y):
 
 # click on key from keyboard
 def keyboard_stroke(key):
-    pyautogui.write(key)
+    pyautogui.press(key)
 
 
 # moves mouse to coordinate
