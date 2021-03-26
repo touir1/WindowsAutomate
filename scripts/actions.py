@@ -116,3 +116,8 @@ def click_on_image(image_path, x_begin=0, y_begin=0, x_end=99999, y_end=99999, n
             pyautogui.click(btn_center_x, btn_center_y)
             return True
     return False
+
+
+# sleeps for n seconds
+def sleep(seconds):
+    pyautogui.sleep(seconds)
